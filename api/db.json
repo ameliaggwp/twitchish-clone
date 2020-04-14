@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "I'm the first stream title",
+      "description": "This tells you what I'm about.",
+      "id": 1
+    },
+    {
+      "title": "I'm the second stream title",
+      "description": "This is definitely a description.",
+      "id": 2
+    },
+    {
+      "title": "Lia's Stream",
+      "description": "Watch me fish for 10 hours on Animal Crossing! :)",
+      "id": 3
+    }
+  ]
+}
